@@ -230,7 +230,7 @@ section{
 }
 
 .testimonial:first-child::before{
-    content: url("/images/bg-quotes.png");
+    content: url("images/bg-quotes.png");
     position: absolute;
     top: -30px;
     left: -15px;
@@ -321,7 +321,7 @@ footer a:hover{
 }
 
 .footer-logo p::before{
-    content: url("/images/icon-location.svg");
+    content: url("images/icon-location.svg");
     position: absolute;
     top: 10px;
     left: -20px;
